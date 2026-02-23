@@ -1,0 +1,41 @@
+Date,Part_Name,Car_Brand,Car_Model,Category,Quantity_Sold,Purchase_Price,Selling_Price,Stock_Left
+1-01-2026,Brake Pad,Maruti,Swift,Brake,5,1200,1800,40
+2-01-2026,Oil Filter,Hyundai,i20,Engine,8,150,250,60
+3-01-2026,Air Filter,Tata,Nexon,Engine,6,300,450,45
+4-01-2026,Headlight Bulb,Maruti,Baleno,Electrical,10,80,150,70
+5-01-2026,Battery,Hyundai,Creta,Electrical,2,4200,5200,15
+6-01-2026,Clutch Plate,Tata,Altroz,Transmission,3,2200,3200,25
+7-01-2026,Wiper Blade,Maruti,Swift,Body,7,200,350,50
+8-01-2026,Brake Disc,Hyundai,Venue,Brake,2,2500,3500,20
+9-01-2026,Spark Plug,Tata,Punch,Engine,12,120,220,80
+10-01-2026,Radiator,Maruti,Ertiga,Cooling,1,3500,4800,10
+12-01-2026,Shock Absorber,Hyundai,i10,Suspension,3,1800,2600,30
+14-01-2026,Lower Arm,Tata,Harrier,Suspension,2,2400,3500,18
+16-01-2026,Fuel Filter,Maruti,Swift,Engine,6,250,400,40
+18-01-2026,Horn,Hyundai,Creta,Electrical,5,150,300,35
+20-01-2026,Brake Shoe,Tata,Tigor,Brake,4,900,1400,28
+22-01-2026,Engine Oil 1L,Maruti,Baleno,Engine,15,350,550,90
+24-01-2026,Coolant Pipe,Hyundai,Venue,Cooling,3,600,950,25
+26-01-2026,Wheel Bearing,Tata,Nexon,Suspension,4,1100,1700,22
+28-01-2026,Side Mirror,Maruti,Ertiga,Body,2,1500,2200,15
+30-01-2026,Fog Lamp,Hyundai,i20,Electrical,3,900,1500,20
+1-02-2026,Brake Pad,Maruti,Swift,Brake,7,1200,1800,33
+2-02-2026,Oil Filter,Hyundai,i20,Engine,10,150,250,50
+3-02-2026,Air Filter,Tata,Nexon,Engine,8,300,450,37
+4-02-2026,Headlight Bulb,Maruti,Baleno,Electrical,12,80,150,58
+5-02-2026,Battery,Hyundai,Creta,Electrical,3,4200,5200,12
+6-02-2026,Clutch Plate,Tata,Altroz,Transmission,4,2200,3200,21
+7-02-2026,Wiper Blade,Maruti,Swift,Body,9,200,350,41
+8-02-2026,Brake Disc,Hyundai,Venue,Brake,3,2500,3500,17
+9-02-2026,Spark Plug,Tata,Punch,Engine,14,120,220,66
+10-02-2026,Radiator,Maruti,Ertiga,Cooling,2,3500,4800,8
+12-02-2026,Shock Absorber,Hyundai,i10,Suspension,4,1800,2600,26
+14-02-2026,Lower Arm,Tata,Harrier,Suspension,3,2400,3500,15
+16-02-2026,Fuel Filter,Maruti,Swift,Engine,8,250,400,32
+18-02-2026,Horn,Hyundai,Creta,Electrical,6,150,300,29
+20-02-2026,Brake Shoe,Tata,Tigor,Brake,6,900,1400,22
+22-02-2026,Engine Oil 1L,Maruti,Baleno,Engine,18,350,550,72
+24-02-2026,Coolant Pipe,Hyundai,Venue,Cooling,4,600,950,21
+26-02-2026,Wheel Bearing,Tata,Nexon,Suspension,5,1100,1700,17
+27-02-2026,Side Mirror,Maruti,Ertiga,Body,3,1500,2200,12
+28-02-2026,Fog Lamp,Hyundai,i20,Electrical,4,900,1500,16
